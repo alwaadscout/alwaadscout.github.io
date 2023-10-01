@@ -6,7 +6,7 @@
   "metaDescription": "novaGallery - beautiful php photo gallery.",
   "footerText": "&copy; 2021 by novafacile OÜ",
   "theme": "novagallery",
-  "url": "https://alwaadscout.github.io",
+  "url": "https://alwaadscout.github.io/",
   "language": "en",
   "allowedImageSizes": [
       "400x400",
