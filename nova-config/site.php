@@ -1,6 +1,6 @@
 <?php defined("NOVA") or die(); ?>
 {
-  "siteName": "novaGallery",
+  "siteName": "AlWaadScout",
   "siteTitle": "The Simple Gallery",
   "metaTitle": "novaGallery",
   "metaDescription": "novaGallery - beautiful php photo gallery.",
